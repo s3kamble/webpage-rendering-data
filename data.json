@@ -1,11 +1,14 @@
 {
+"Hamburger":{
+      "imageSrc":" https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+  },
  
 " bannerData" : {
   "companyName": "Render Webpage using JavaScript Object",
   "tagline": "using modular code for page rendering",
   "cta": "Contact Us",
   "href": "#",
-  "bannerImg": ""
+  "bannerImg": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
 },
 
 "navData ": {
