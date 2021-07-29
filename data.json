@@ -5,12 +5,12 @@
   "tagline": "using modular code for page rendering",
   "cta": "Contact Us",
   "href": "#",
-  "bannerImg": "https://niravkpatel28.github.io/github-image-repositorywebpage/banner2.png"
+  "bannerImg": ""
 },
 
 "navData ": {
   "logo": {
-    "imgSrc": "https://niravkpatel28.github.io/github-image-repositorywebpage/surfboard-logo.png",
+    "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
     "alt": "Surfboard India Company Logo"
   },
   "navLinks": [
