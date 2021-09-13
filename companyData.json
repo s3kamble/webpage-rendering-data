@@ -1,10 +1,15 @@
-{   "navData":{
-    "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/TECH.png",
-    "navHeading":"TechSurf",
-    "navSubHeading":"-Your Teach Partner"
+{   "baseUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images",
+    "navData":{
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/TECH.png",
+        "navHeading":"TechSurf",
+        "navSubHeading":"-Your Tech Partner"
     },
     "RE":{
-        "navLinks":["Home","Contentstack","Surfboard Ventures"], 
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Raw%20Engineering.png",
         "mainContent":{
             "mainHeading":"Raw Engineering",
             "mainSubHeading":"Fast Track Innovation From Vision to Reality",
@@ -13,7 +18,11 @@
         }
     },
     "CS":{
-        "navLinks":["Home","Raw Engineering","Surfboard Ventures"], 
+        "navLinks":[ 
+            {"name":"Home", "link": "/"},
+            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Surfboard", "link": "/surfboard"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Contentstack.png",
         "mainContent":{
             "mainHeading":"Contentstack",
             "mainSubHeading":"The Future Fit Content Management System",
@@ -22,7 +31,11 @@
         }
     },
     "SB":{
-        "navLinks":["Home","Raw Engineering","Contentstack"], 
+        "navLinks":[ 
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Surfboard%20India.png",
         "mainContent":{
             "mainHeading":"Surfboard Ventures",
             "mainSubHeading":"The Entrepreneur’s Surfboard",
@@ -36,7 +49,7 @@
             "mainHeading":"TECHSURF",
             "mainSubHeading":"Let us help you with technology....",
             "mainImage":"https://s3kamble.github.io/webpage-rendering-data/companies-images/techsurf-img.jpg",
-            "mainBody":"We will ensure that all elements of your web creation are consistent.We provide you with bespoke solutions for your web app.We are a one stop solution for beautiful websites with optimized web pages that maintain your brand's consistency.WE ARE TECHSURF's"
+            "mainBody":"Our partners:Raw Engineering,Contentstack,Surfboard Ventures.We will ensure that all elements of your web creation are consistent.We provide you with bespoke solutions for your web app.We are a one stop solution for beautiful websites with optimized web pages that maintain your brand's consistency.WE ARE TECHSURF's."
         }
     },
     "footerData":{
