@@ -44,7 +44,10 @@
         }
     },
     "Home":{
-        "navLinks":["Raw Engineering","Contentstack","Surfboard Ventures"], 
+        "navLinks":[ 
+            {"name":"Surfboard Ventures", "link": "/surfboard"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}], 
         "mainContent":{
             "mainHeading":"TECHSURF",
             "mainSubHeading":"Let us help you with technology....",
